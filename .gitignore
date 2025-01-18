@@ -1,0 +1,3 @@
+# Ignore books directory but keep main.py
+books/*
+!books/main.py 
